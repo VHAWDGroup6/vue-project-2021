@@ -1,0 +1,25 @@
+[debug] [2021-03-07T22:33:56.984Z] ----------------------------------------------------------------------
+[debug] [2021-03-07T22:33:56.986Z] Command:       /usr/local/bin/node /usr/local/bin/firebase init
+[debug] [2021-03-07T22:33:56.986Z] CLI Version:   9.5.0
+[debug] [2021-03-07T22:33:56.987Z] Platform:      darwin
+[debug] [2021-03-07T22:33:56.987Z] Node Version:  v14.15.5
+[debug] [2021-03-07T22:33:56.999Z] Time:          Sun Mar 07 2021 22:33:56 GMT+0000 (Greenwich Mean Time)
+[debug] [2021-03-07T22:33:56.999Z] ----------------------------------------------------------------------
+[debug] [2021-03-07T22:33:56.999Z] 
+[debug] [2021-03-07T22:33:57.005Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2021-03-07T22:33:57.005Z] > authorizing via signed-in user
+[info] 
+     ######## #### ########  ######## ########     ###     ######  ########
+     ##        ##  ##     ## ##       ##     ##  ##   ##  ##       ##
+     ######    ##  ########  ######   ########  #########  ######  ######
+     ##        ##  ##    ##  ##       ##     ## ##     ##       ## ##
+     ##       #### ##     ## ######## ########  ##     ##  ######  ########
+
+You're about to initialize a Firebase project in this directory:
+
+  /Users/vikkihanley/Documents/GitHub/vue-project-2021-vh
+
+Before we get started, keep in mind:
+
+  * You are initializing in an existing Firebase project directory
+
